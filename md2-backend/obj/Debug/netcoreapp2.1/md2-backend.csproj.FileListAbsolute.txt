@@ -1,0 +1,17 @@
+C:\Users\T430s\Documents\Projekti\MD2\md2-backend\bin\Debug\netcoreapp2.1\md2-backend.deps.json
+C:\Users\T430s\Documents\Projekti\MD2\md2-backend\bin\Debug\netcoreapp2.1\md2-backend.runtimeconfig.json
+C:\Users\T430s\Documents\Projekti\MD2\md2-backend\bin\Debug\netcoreapp2.1\md2-backend.runtimeconfig.dev.json
+C:\Users\T430s\Documents\Projekti\MD2\md2-backend\bin\Debug\netcoreapp2.1\md2-backend.dll
+C:\Users\T430s\Documents\Projekti\MD2\md2-backend\obj\Debug\netcoreapp2.1\md2-backend.csprojAssemblyReference.cache
+C:\Users\T430s\Documents\Projekti\MD2\md2-backend\obj\Debug\netcoreapp2.1\md2-backend.csproj.CoreCompileInputs.cache
+C:\Users\T430s\Documents\Projekti\MD2\md2-backend\obj\Debug\netcoreapp2.1\md2-backend.RazorAssemblyInfo.cache
+C:\Users\T430s\Documents\Projekti\MD2\md2-backend\obj\Debug\netcoreapp2.1\md2-backend.RazorAssemblyInfo.cs
+C:\Users\T430s\Documents\Projekti\MD2\md2-backend\obj\Debug\netcoreapp2.1\md2-backend.AssemblyInfoInputs.cache
+C:\Users\T430s\Documents\Projekti\MD2\md2-backend\obj\Debug\netcoreapp2.1\md2-backend.AssemblyInfo.cs
+C:\Users\T430s\Documents\Projekti\MD2\md2-backend\obj\Debug\netcoreapp2.1\md2-backend.RazorTargetAssemblyInfo.cache
+C:\Users\T430s\Documents\Projekti\MD2\md2-backend\bin\Debug\netcoreapp2.1\md2-backend.pdb
+C:\Users\T430s\Documents\Projekti\MD2\md2-backend\obj\Debug\netcoreapp2.1\md2-backend.dll
+C:\Users\T430s\Documents\Projekti\MD2\md2-backend\obj\Debug\netcoreapp2.1\md2-backend.pdb
+C:\Users\T430s\Documents\Projekti\MD2\md2-backend\obj\Debug\netcoreapp2.1\md2-backend.Properties.Resources.resources
+C:\Users\T430s\Documents\Projekti\MD2\md2-backend\obj\Debug\netcoreapp2.1\md2-backend.csproj.GenerateResource.cache
+C:\Users\T430s\Documents\Projekti\MD2\md2-backend\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
